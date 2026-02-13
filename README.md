@@ -1,2 +1,2 @@
 # BailingRobot
-A Robot Designed for Educational Practical Training
+A Robot Designed for Practical Training
